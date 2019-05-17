@@ -1,0 +1,39 @@
+.wrapper{
+	width:80%;
+	margin:0 auto;
+}
+h1{
+	text-align: center;
+}
+.leftcol{
+	float:left;
+	width:50%;
+	background-color:yellow;
+}
+.rightcol{
+	float:right;
+	width:45%;
+	background-color: pink;
+}
+.cleared{
+	display:flow-root;
+}
+.flex-container{
+	display:flex;
+	background-color: grey;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 20px;
+
+}
+.flex-container> div{
+	background-color: purple;
+	padding:10px;
+	margin:10px;
+}
+img{
+	border:5px dashed white;
+	float:right;
+	margin:5px;
+	padding:5px;
+}

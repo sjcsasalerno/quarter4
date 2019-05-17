@@ -1,0 +1,67 @@
+.bphoto{
+	background-image: url(../images/ansel-portrait.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+}
+.bphoto h1{
+	font-size: 60px;
+	color:#ec7e38;
+	margin-bottom: 5px;
+}
+.button{
+	text-decoration: none;
+	font-size: 40px;
+	border:black 1px solid;
+	padding:10px;
+	background-color:#ec7e38;
+	border-radius: 10px;
+	color:white;
+	text-transform: uppercase;
+}
+a:hover{
+	color:#e89d74;
+	background-color:#ec7e38;
+}
+.button2{
+	color:#ec7e38;
+	padding:5px;
+	font-size: 30px;
+}
+.flexcontainer{
+	display:flex;
+	flex-direction:row;
+	justify-content:flex-start;
+	align-content:stretch;
+}
+p{
+	text-align:center;
+	font-size:15px;
+}
+h1{
+	color:grey;
+	font-size:30px;
+	text-align: center;
+	border:dashed 3px grey;
+}
+.F1{
+	background-color:#A1B9CD;
+}
+.F2{
+	background-color:#C7B2DF;
+}
+.F3{
+	background-color:#DFB2CA;
+}
+.F4{
+	background-color:#CCE6DD;
+}
+img{
+	width:300px;
+	height:300px;
+}

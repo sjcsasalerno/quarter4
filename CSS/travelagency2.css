@@ -1,0 +1,40 @@
+.wrapper{
+	width:80%;
+	margin:0 auto;
+	background-color: #D7DBDA;
+}
+h1{
+	text-align: center;
+}
+img{
+	width:1000px;
+}
+.cleared{
+	display: flow-root;
+}
+.leftcol{
+	float:left;
+	width:40%;
+	background-color:#EEEBA6;
+	margin:35px;
+}
+.rightcol{
+	float:right;
+	width:40%;
+	background-color:#EEEBA6;
+	margin:35px;
+}
+p{
+	text-align:center;
+	color:#87A1C1;
+}
+.h2{
+	text-align: center;
+	color:#C18A87;
+	font-size:35px;
+}
+h2{
+	color:#A7A699;
+	font-size:50px;
+	text-align:center;
+}
